@@ -41,5 +41,4 @@ if __name__ == '__main__':
     import random
     import time
 
-    time.sleep(random.uniform(1.1, 5.4))
-    print(random.uniform(1.1,5.4))
+
